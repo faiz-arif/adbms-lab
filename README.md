@@ -7,17 +7,16 @@
 
 ### Course Outcome 1 (CO1): 
 1. Consider the database for an organisation. Write the queries for the following:
-    i. create the database
-    ii. select the current database
-    iii. Create the following tables: 
-    employee (emp_no,emp_name,DOB, address, doj, mobile_no, dept_no, salary) & department (dept_no, dept_name, location).
-        a. Include necessary constraints.
-        b. List all the tables in the current database
-        c. Display the structure of the employee table
-        d. Add a new column Designation to the employee table
-        e. Drop the column location from Dept table
-        f. Drop the tables
-        g. Delete the database
+i) create the database
+ii) select the current database
+iii) Create the following tables: employee (emp_no,emp_name,DOB, address, doj, mobile_no, dept_no, salary) & department (dept_no, dept_name, location).
+a) Include necessary constraints.
+b) List all the tables in the current database
+c) Display the structure of the employee table
+d) Add a new column Designation to the employee table
+e) Drop the column location from Dept table
+f) Drop the tables
+g) Delete the database
 
 2. Consider the database for an organisation. Write the queries for the following:
 a. Add 5 rows in the employee and dept tables
